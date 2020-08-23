@@ -2,15 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="07ff6917-b042-4fba-b866-c6b2645f1aa3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Part2.(3)ChessKnightMove.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Part2.(4)Game.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Part1.Greedy(1).py" beforeDir="false" afterPath="$PROJECT_DIR$/Part1.(1)Greedy.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Part1.Greedy(2).py" beforeDir="false" afterPath="$PROJECT_DIR$/Part1.(2)Greedy.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Part1.Greedy(3).py" beforeDir="false" afterPath="$PROJECT_DIR$/Part1.(3)Greedy.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Part1.Greedy(4).py" beforeDir="false" afterPath="$PROJECT_DIR$/Part1.(4)Greedy.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Part2.Hour.py" beforeDir="false" afterPath="$PROJECT_DIR$/Part2.(2)Hour.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Part2.Map.py" beforeDir="false" afterPath="$PROJECT_DIR$/Part2.(1)Map.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Part2.(4)Game.py" beforeDir="false" afterPath="$PROJECT_DIR$/Part2.(4)Game.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -20,18 +12,13 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Part2.(3)ChessKnightMove.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="14" selection-start-line="10" selection-start-column="14" selection-end-line="10" selection-end-column="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Part2.(4)Game.py">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="171">
+              <caret line="35" column="2" selection-start-line="35" selection-start-column="2" selection-end-line="35" selection-end-column="2" />
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -65,12 +52,13 @@
         <option value="$PROJECT_DIR$/Part2.ChssKnightMove.py" />
         <option value="$PROJECT_DIR$/Part2.ChessKnightMove(3).py" />
         <option value="$PROJECT_DIR$/Part3.Game.py" />
+        <option value="$PROJECT_DIR$/Part2.(4)Game.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="562" />
-    <option name="y" value="51" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="495" />
+    <option name="y" value="-28" />
     <option name="width" value="979" />
     <option name="height" value="1040" />
   </component>
@@ -116,28 +104,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Part2.ChessKnightMove(3)">
-    <configuration name="Part1.Greedy(3)" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="PythonCodingTest" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\USER\PycharmProjects\PythonCodingTest\Part1.(3)Greedy.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.Part2.(4)Game">
     <configuration name="Part1.Greedy(4)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonCodingTest" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -222,13 +189,34 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Part2.(4)Game" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PythonCodingTest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Part2.(4)Game.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Part2.(4)Game" />
         <item itemvalue="Python.Part2.ChessKnightMove(3)" />
         <item itemvalue="Python.Part2.Hour" />
         <item itemvalue="Python.Part2.Map" />
         <item itemvalue="Python.Part1.Greedy(4)" />
-        <item itemvalue="Python.Part1.Greedy(3)" />
       </list>
     </recent_temporary>
   </component>
@@ -255,15 +243,16 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="450" y="41" width="783" height="832" extended-state="0" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21017402" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.10369881" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.33333334" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.398017" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.33286119" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.398017" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3286119" />
@@ -379,6 +368,61 @@
           <line>10</line>
           <option name="timeStamp" value="39" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Part2.(4)Game.py</url>
+          <line>125</line>
+          <option name="timeStamp" value="41" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Part2.(4)Game.py</url>
+          <line>124</line>
+          <option name="timeStamp" value="47" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Part2.(4)Game.py</url>
+          <line>19</line>
+          <option name="timeStamp" value="48" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Part2.(4)Game.py</url>
+          <line>31</line>
+          <option name="timeStamp" value="49" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Part2.(4)Game.py</url>
+          <line>39</line>
+          <option name="timeStamp" value="50" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Part2.(4)Game.py</url>
+          <line>40</line>
+          <option name="timeStamp" value="51" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Part2.(4)Game.py</url>
+          <line>45</line>
+          <option name="timeStamp" value="52" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Part2.(4)Game.py</url>
+          <line>44</line>
+          <option name="timeStamp" value="53" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Part2.(4)Game.py</url>
+          <line>47</line>
+          <option name="timeStamp" value="54" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Part2.(4)Game.py</url>
+          <line>48</line>
+          <option name="timeStamp" value="55" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Part2.(4)Game.py</url>
+          <line>49</line>
+          <option name="timeStamp" value="56" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
@@ -476,7 +520,11 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Part2.(4)Game.py">
-      <provider selected="true" editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="35" column="2" selection-start-line="35" selection-start-column="2" selection-end-line="35" selection-end-column="2" />
+        </state>
+      </provider>
     </entry>
   </component>
 </project>

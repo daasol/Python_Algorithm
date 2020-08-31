@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="07ff6917-b042-4fba-b866-c6b2645f1aa3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/programmers/SkillTree3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/programmers/SkillTree4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodingTest/Q1.Encoding.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,17 +16,26 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/programmers/SkillTree3.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="207">
+            <state relative-caret-position="289">
               <caret line="17" selection-start-line="17" selection-end-line="17" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/programmers/SkillTree4.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="252">
-              <caret line="30" column="17" lean-forward="true" selection-start-line="6" selection-end-line="30" selection-end-column="17" />
+            <state relative-caret-position="305">
+              <caret line="23" column="21" selection-start-line="23" selection-start-column="21" selection-end-line="23" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/CodingTest/Q1.Encoding.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="340">
+              <caret line="20" column="6" selection-start-line="20" selection-start-column="6" selection-end-line="20" selection-end-column="6" />
             </state>
           </provider>
         </entry>
@@ -35,7 +43,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://C:/Program Files/Python37/Lib/codecs.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="127">
+            <state relative-caret-position="5236">
               <caret line="309" selection-start-line="309" selection-end-line="309" />
             </state>
           </provider>
@@ -84,14 +92,14 @@
         <option value="$PROJECT_DIR$/Part3.(2)SwapArray.py" />
         <option value="$PROJECT_DIR$/programmers/SkillTree3.py" />
         <option value="$PROJECT_DIR$/programmers/SkillTree4.py" />
+        <option value="$PROJECT_DIR$/CodingTest/Q1.Encoding.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="792" />
-    <option name="y" value="36" />
-    <option name="width" value="980" />
-    <option name="height" value="1050" />
+    <option name="x" value="691" />
+    <option name="width" value="1344" />
+    <option name="height" value="1038" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -101,7 +109,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -112,7 +119,7 @@
             <path>
               <item name="PythonCodingTest" type="b2602c69:ProjectViewProjectNode" />
               <item name="PythonCodingTest" type="462c0819:PsiDirectoryNode" />
-              <item name="programmers" type="462c0819:PsiDirectoryNode" />
+              <item name="CodingTest" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="PythonCodingTest" type="b2602c69:ProjectViewProjectNode" />
@@ -123,6 +130,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -141,7 +149,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.SkillTree4">
+  <component name="RunManager" selected="Python.Q1.Encoding">
     <configuration name="Part3.(1)StudentScore" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonCodingTest" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -184,7 +192,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="SkillTree2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Q1.Encoding" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonCodingTest" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -192,11 +200,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/programmers" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CodingTest" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/programmers/SkillTree2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodingTest/Q1.Encoding.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -249,11 +257,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Q1.Encoding" />
         <item itemvalue="Python.SkillTree4" />
         <item itemvalue="Python.SkillTree3" />
         <item itemvalue="Python.Part3.(2)SwapArray" />
         <item itemvalue="Python.Part3.(1)StudentScore" />
-        <item itemvalue="Python.SkillTree2" />
       </list>
     </recent_temporary>
   </component>
@@ -280,16 +288,16 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="634" y="29" width="784" height="840" extended-state="0" />
+    <frame x="553" y="0" width="1075" height="830" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.40106952" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17805582" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.24152543" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.34560907" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.24068768" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3452722" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3286119" />
@@ -726,24 +734,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://C:/Program Files/Python37/Lib/codecs.py">
+    <entry file="file://$PROJECT_DIR$/programmers/SkillTree3.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="127">
-          <caret line="309" selection-start-line="309" selection-end-line="309" />
+        <state relative-caret-position="289">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/programmers/SkillTree3.py">
+    <entry file="file://C:/Program Files/Python37/Lib/codecs.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        <state relative-caret-position="5236">
+          <caret line="309" selection-start-line="309" selection-end-line="309" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/programmers/SkillTree4.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="30" column="17" lean-forward="true" selection-start-line="6" selection-end-line="30" selection-end-column="17" />
+        <state relative-caret-position="305">
+          <caret line="23" column="21" selection-start-line="23" selection-start-column="21" selection-end-line="23" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodingTest/Q1.Encoding.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="6" selection-start-line="20" selection-start-column="6" selection-end-line="20" selection-end-column="6" />
         </state>
       </provider>
     </entry>

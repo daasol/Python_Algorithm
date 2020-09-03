@@ -3,7 +3,6 @@ text=['   + -- + - + -   ',
 '   + -- + - + -   ',
 '   + - + - + - +   ']
 list1=[]
-
 for i in text :
     list1.append((chr(int(i.strip().replace(' ','').replace('+','1').replace('-','0'),2))))
 

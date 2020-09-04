@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="07ff6917-b042-4fba-b866-c6b2645f1aa3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/CodingTest/Q4.LRU.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dictionary.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodingTest/Q4.LRU(2).py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Part2.(6)FindMapBFS.py" beforeDir="false" afterPath="$PROJECT_DIR$/Part2.(6)FindMapBFS.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodingTest/Q4.LRU.py" beforeDir="false" afterPath="$PROJECT_DIR$/CodingTest/Q4.LRU.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -24,11 +23,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/CodingTest/Q4.LRU.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="10" column="18" lean-forward="true" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
+            <state relative-caret-position="301">
+              <caret line="36" selection-start-line="36" selection-end-line="39" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/CodingTest/Q4.LRU(2).py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="32" column="43" selection-start-line="32" selection-start-column="43" selection-end-line="32" selection-end-column="43" />
             </state>
           </provider>
         </entry>
@@ -93,15 +101,15 @@
         <option value="$PROJECT_DIR$/CodingTest/Q2.JAVADog.py" />
         <option value="$PROJECT_DIR$/CodingTest/Q3.Island.py" />
         <option value="$PROJECT_DIR$/Part2.(6)FindMapBFS.py" />
-        <option value="$PROJECT_DIR$/CodingTest/Q4.LRU.py" />
         <option value="$PROJECT_DIR$/dictionary.py" />
+        <option value="$PROJECT_DIR$/CodingTest/Q4.LRU.py" />
+        <option value="$PROJECT_DIR$/CodingTest/Q4.LRU(2).py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="767" />
-    <option name="y" value="53" />
-    <option name="width" value="1064" />
+    <option name="x" value="772" />
+    <option name="width" value="1149" />
     <option name="height" value="1030" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -112,6 +120,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -133,7 +142,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -152,7 +160,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.dictionary">
+  <component name="RunManager" selected="Python.Q4.LRU(2)">
     <configuration name="Part2.(6)FindMapBFS" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonCodingTest" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -166,27 +174,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Part2.(6)FindMapBFS.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Q2.JAVADog" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="PythonCodingTest" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CodingTest" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodingTest/Q2.JAVADog.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -237,6 +224,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Q4.LRU(2)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PythonCodingTest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CodingTest" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodingTest/Q4.LRU(2).py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="dictionary" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonCodingTest" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -260,11 +268,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.dictionary" />
+        <item itemvalue="Python.Q4.LRU(2)" />
         <item itemvalue="Python.Q4.LRU" />
+        <item itemvalue="Python.dictionary" />
         <item itemvalue="Python.Part2.(6)FindMapBFS" />
         <item itemvalue="Python.Q3.Island" />
-        <item itemvalue="Python.Q2.JAVADog" />
       </list>
     </recent_temporary>
   </component>
@@ -291,10 +299,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="614" y="43" width="851" height="824" extended-state="0" />
+    <frame x="618" y="0" width="919" height="824" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.4601227" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19479048" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -615,7 +623,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/CodingTest/Q4.LRU.py</url>
-          <line>18</line>
+          <line>19</line>
           <option name="timeStamp" value="167" />
         </line-breakpoint>
       </breakpoints>
@@ -828,8 +836,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/CodingTest/Q4.LRU.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="10" column="18" lean-forward="true" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
+        <state relative-caret-position="301">
+          <caret line="36" selection-start-line="36" selection-end-line="39" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodingTest/Q4.LRU(2).py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="32" column="43" selection-start-line="32" selection-start-column="43" selection-end-line="32" selection-end-column="43" />
         </state>
       </provider>
     </entry>

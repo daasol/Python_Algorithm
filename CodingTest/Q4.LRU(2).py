@@ -34,7 +34,7 @@ def solution(page, num) :
                 chair.pop(0)
                 chair.append(i)
                 answer += 60
-    return f'{answer//60}분 {answer%60}초'
+    return f'{answer//60}분  {answer%60}초'
 
 page = ['척추동물', '어류', '척추동물',
         '무척추동물', '파충류', '척추동물',

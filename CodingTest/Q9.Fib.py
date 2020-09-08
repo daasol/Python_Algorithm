@@ -27,3 +27,14 @@ def fib2(a) :
         return 1
     else :
         return fib2(a-2)+fib2(a-1)
+
+def comma(n) :
+    if len(n) < 3 :
+        return n
+    else :
+        return comma(n[:len(n)-3])+','+n[len(n)-3:]
+
+print(comma('10000000'))
+n=10000000
+n = format(n, ',')
+print(n)
